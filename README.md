@@ -6,5 +6,6 @@
 
 # 小說改編
 
+- [逃出絕命鎮 (Get Out)](./get_out/)
 - [人生複本 (Dark Matter)](./dark_matter/)
 
