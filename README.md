@@ -28,9 +28,9 @@
 ## 劇本二次改編
 
 - Dola湯（原作：毒入りスーフ）
-- 沼澤人（原作：沼男は誰だ？）
 
 ## Dola 原創
 
 - [新世界 (New World)](./new_world/)
+- [長壽村 (Longevity Village)](./longevity_village/)
 
